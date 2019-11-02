@@ -259,16 +259,16 @@
             "asOfVersion": "2.0.0"
         },
         {
-            "libraryName": "bezier-easing",
-            "typingsPackageName": "bezier-easing",
-            "sourceRepoURL": "https://github.com/gre/bezier-easing",
-            "asOfVersion": "2.1.0"
-        },
-        {
             "libraryName": "bem-cn",
             "typingsPackageName": "bem-cn",
             "sourceRepoURL": "https://github.com/albburtsev/bem-cn",
             "asOfVersion": "3.0.0"
+        },
+        {
+            "libraryName": "bezier-easing",
+            "typingsPackageName": "bezier-easing",
+            "sourceRepoURL": "https://github.com/gre/bezier-easing",
+            "asOfVersion": "2.1.0"
         },
         {
             "libraryName": "BigInteger.js",
@@ -295,16 +295,16 @@
             "asOfVersion": "2.0.15"
         },
         {
-            "libraryName": "bitcoinjs-lib",
-            "typingsPackageName": "bitcoinjs-lib",
-            "sourceRepoURL": "https://github.com/bitcoinjs/bitcoinjs-lib",
-            "asOfVersion": "5.0.0"
-        },
-        {
             "libraryName": "bip32",
             "typingsPackageName": "bip32",
             "sourceRepoURL": "https://github.com/bitcoinjs/bip32#readme",
             "asOfVersion": "2.0.0"
+        },
+        {
+            "libraryName": "bitcoinjs-lib",
+            "typingsPackageName": "bitcoinjs-lib",
+            "sourceRepoURL": "https://github.com/bitcoinjs/bitcoinjs-lib",
+            "asOfVersion": "5.0.0"
         },
         {
             "libraryName": "bitwise",
@@ -1111,16 +1111,16 @@
             "asOfVersion": "2.2.0"
         },
         {
-            "libraryName": "expo-localization",
-            "typingsPackageName": "expo-localization",
-            "sourceRepoURL": "https://docs.expo.io/versions/latest/sdk/localization",
-            "asOfVersion": "3.0.0"
-        },
-        {
             "libraryName": "expo",
             "typingsPackageName": "expo",
             "sourceRepoURL": "https://github.com/expo/expo/tree/master/packages/expo",
             "asOfVersion": "33.0.0"
+        },
+        {
+            "libraryName": "expo-localization",
+            "typingsPackageName": "expo-localization",
+            "sourceRepoURL": "https://docs.expo.io/versions/latest/sdk/localization",
+            "asOfVersion": "3.0.0"
         },
         {
             "libraryName": "expr-eval",
@@ -1999,6 +1999,12 @@
             "asOfVersion": "2.2.0"
         },
         {
+            "libraryName": "jest-diff",
+            "typingsPackageName": "jest-diff",
+            "sourceRepoURL": "https://github.com/facebook/jest/tree/master/packages/jest-diff",
+            "asOfVersion": "24.3.0"
+        },
+        {
             "libraryName": "jest-each",
             "typingsPackageName": "jest-each",
             "sourceRepoURL": "https://github.com/facebook/jest",
@@ -2101,16 +2107,16 @@
             "asOfVersion": "3.0.0"
         },
         {
-            "libraryName": "karma-viewport",
-            "typingsPackageName": "karma-viewport",
-            "sourceRepoURL": "https://github.com/squidfunk/karma-viewport",
-            "asOfVersion": "1.0.0"
-        },
-        {
             "libraryName": "kafkajs",
             "typingsPackageName": "kafkajs",
             "sourceRepoURL": "https://github.com/tulios/kafkajs",
             "asOfVersion": "1.9.0"
+        },
+        {
+            "libraryName": "karma-viewport",
+            "typingsPackageName": "karma-viewport",
+            "sourceRepoURL": "https://github.com/squidfunk/karma-viewport",
+            "asOfVersion": "1.0.0"
         },
         {
             "libraryName": "keycloak-js",
@@ -2161,6 +2167,12 @@
             "asOfVersion": "3.3.0"
         },
         {
+            "libraryName": "koa-pug",
+            "typingsPackageName": "koa-pug",
+            "sourceRepoURL": "https://github.com/chrisyip/koa-pug",
+            "asOfVersion": "4.0.0"
+        },
+        {
             "libraryName": "koa-requestid",
             "typingsPackageName": "koa-requestid",
             "sourceRepoURL": "https://github.com/seegno/koa-requestid/",
@@ -2171,12 +2183,6 @@
             "typingsPackageName": "koa-useragent",
             "sourceRepoURL": "https://github.com/rvboris/koa-useragent",
             "asOfVersion": "2.1.1"
-        },
-        {
-            "libraryName": "koa-pug",
-            "typingsPackageName": "koa-pug",
-            "sourceRepoURL": "https://github.com/chrisyip/koa-pug",
-            "asOfVersion": "4.0.0"
         },
         {
             "libraryName": "lambda-phi",
@@ -2551,6 +2557,12 @@
             "asOfVersion": "7.0.0"
         },
         {
+            "libraryName": "natsort",
+            "typingsPackageName": "natsort",
+            "sourceRepoURL": "https://github.com/netop/natsort",
+            "asOfVersion": "2.0.0"
+        },
+        {
             "libraryName": "navigation",
             "typingsPackageName": "navigation",
             "sourceRepoURL": "http://grahammendick.github.io/navigation/",
@@ -2561,12 +2573,6 @@
             "typingsPackageName": "navigation-react",
             "sourceRepoURL": "http://grahammendick.github.io/navigation/",
             "asOfVersion": "4.0.0"
-        },
-        {
-            "libraryName": "natsort",
-            "typingsPackageName": "natsort",
-            "sourceRepoURL": "https://github.com/netop/natsort",
-            "asOfVersion": "2.0.0"
         },
         {
             "libraryName": "typescript",
@@ -2707,10 +2713,10 @@
             "asOfVersion": "1.9.3"
         },
         {
-            "libraryName": "oembed-parser",
-            "typingsPackageName": "oembed-parser",
-            "sourceRepoURL": "https://www.npmjs.com/package/oembed-parser",
-            "asOfVersion": "1.2.2"
+            "libraryName": "o.js",
+            "typingsPackageName": "o.js",
+            "sourceRepoURL": "https://github.com/janhommes/o.js",
+            "asOfVersion": "1.0.3"
         },
         {
             "libraryName": "odata",
@@ -2719,10 +2725,10 @@
             "asOfVersion": "1.0.3"
         },
         {
-            "libraryName": "o.js",
-            "typingsPackageName": "o.js",
-            "sourceRepoURL": "https://github.com/janhommes/o.js",
-            "asOfVersion": "1.0.3"
+            "libraryName": "oembed-parser",
+            "typingsPackageName": "oembed-parser",
+            "sourceRepoURL": "https://www.npmjs.com/package/oembed-parser",
+            "asOfVersion": "1.2.2"
         },
         {
             "libraryName": "on-change",
@@ -3415,16 +3421,16 @@
             "asOfVersion": "2.5.7"
         },
         {
-            "libraryName": "react-collapsible",
-            "typingsPackageName": "react-collapsible",
-            "sourceRepoURL": "https://github.com/glennflanagan/react-collapsible#readme",
-            "asOfVersion": "2.3.0"
-        },
-        {
             "libraryName": "react-circular-progressbar",
             "typingsPackageName": "react-circular-progressbar",
             "sourceRepoURL": "https://github.com/kevinsqi/react-circular-progressbar#readme",
             "asOfVersion": "1.1.0"
+        },
+        {
+            "libraryName": "react-collapsible",
+            "typingsPackageName": "react-collapsible",
+            "sourceRepoURL": "https://github.com/glennflanagan/react-collapsible#readme",
+            "asOfVersion": "2.3.0"
         },
         {
             "libraryName": "react-content-loader",
@@ -3589,16 +3595,16 @@
             "asOfVersion": "2.0.0"
         },
         {
-            "libraryName": "react-native-safe-area",
-            "typingsPackageName": "react-native-safe-area",
-            "sourceRepoURL": "https://github.com/miyabi/react-native-safe-area#readme",
-            "asOfVersion": "0.5.1"
-        },
-        {
             "libraryName": "react-native-permissions",
             "typingsPackageName": "react-native-permissions",
             "sourceRepoURL": "https://github.com/yonahforst/react-native-permissions",
             "asOfVersion": "2.0.0"
+        },
+        {
+            "libraryName": "react-native-safe-area",
+            "typingsPackageName": "react-native-safe-area",
+            "sourceRepoURL": "https://github.com/miyabi/react-native-safe-area#readme",
+            "asOfVersion": "0.5.1"
         },
         {
             "libraryName": "react-navigation-material-bottom-tabs",
@@ -3631,16 +3637,16 @@
             "asOfVersion": "5.0.0"
         },
         {
-            "libraryName": "react-toastify",
-            "typingsPackageName": "react-toastify",
-            "sourceRepoURL": "https://github.com/fkhadra/react-toastify#readme",
-            "asOfVersion": "4.1.0"
-        },
-        {
             "libraryName": "react-tether",
             "typingsPackageName": "react-tether",
             "sourceRepoURL": "https://github.com/danreeves/react-tether",
             "asOfVersion": "1.0.0"
+        },
+        {
+            "libraryName": "react-toastify",
+            "typingsPackageName": "react-toastify",
+            "sourceRepoURL": "https://github.com/fkhadra/react-toastify#readme",
+            "asOfVersion": "4.1.0"
         },
         {
             "libraryName": "react-webcam",
@@ -4159,16 +4165,16 @@
             "asOfVersion": "0.1.5"
         },
         {
-            "libraryName": "stellar-base",
-            "typingsPackageName": "stellar-base",
-            "sourceRepoURL": "https://github.com/stellar/js-stellar-base",
-            "asOfVersion": "0.13.2"
-        },
-        {
             "libraryName": "stacktrace-js",
             "typingsPackageName": "stacktrace-js",
             "sourceRepoURL": "https://github.com/stacktracejs/stacktrace.js",
             "asOfVersion": "2.0.1"
+        },
+        {
+            "libraryName": "stellar-base",
+            "typingsPackageName": "stellar-base",
+            "sourceRepoURL": "https://github.com/stellar/js-stellar-base",
+            "asOfVersion": "0.13.2"
         },
         {
             "libraryName": "stellar-sdk",
